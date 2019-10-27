@@ -3,3 +3,10 @@
 
 # Ignore Gradle build output directory
 build
+
+# Ignore Java project-specific files
+.classpath
+.project
+
+# Ignore vscode settings directory
+.settings

@@ -14,7 +14,7 @@ TDF Remote API的Java版本封装
 
 ```gradle
 dependencies {
-  implementation 'com.github.JupiterFund:tdfapi:{{Release}}:all'
+  implementation 'com.github.JupiterFund:tdfapi:v1.2.0:all'
 }
 ```
 
@@ -22,7 +22,7 @@ dependencies {
 <dependency>
     <groupId>com.github.JupiterFund</groupId>
     <artifactId>tdfapi</artifactId>
-    <version>{{Release}}</version>
+    <version>v1.2.0</version>
     <classifier>all</classifier>
 </dependency>
 ```
